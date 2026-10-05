@@ -1,0 +1,6 @@
+apiVersion: v2
+name: backend-one
+description: Helm chart for Backend One and the shared Ingress
+type: application
+version: 0.1.0
+appVersion: "1.0.0"
